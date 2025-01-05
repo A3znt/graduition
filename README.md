@@ -62,5 +62,4 @@ https://tarek-shoman.github.io/Arabic-todo-app/
 4. قم بدفع الفرع (`git push origin feature/amazing-feature`)
 5. قم بفتح طلب Pull Request
 
-## المطور
-طارق مصطفى - [GitHub](https://github.com/TarekMostafa123)
+zenta
